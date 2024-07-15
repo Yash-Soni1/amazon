@@ -1,4 +1,4 @@
-# amazon
-this is a clone \
-authorv - Yash Soni
+# Amazon - Clone
+This is a clone \
+Author - Yash Soni
 
