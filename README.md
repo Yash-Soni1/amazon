@@ -1,2 +1,4 @@
 # amazon
-this is a clone 
+this is a clone \
+authorv - Yash Soni
+
